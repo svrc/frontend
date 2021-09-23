@@ -1,0 +1,11 @@
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetDetails.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/OwnerDetails.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayDiscoveryConfig.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/VisitDetails.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/PetType.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/InsecurityConfiguration.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/CustomersServiceClient.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/boundary/web/ApiGatewayController.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/dto/Visits.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/ApiGatewayApplication.java
+/home/stu/pivotal/spring-petclinic-cloud/spring-petclinic-api-gateway/src/main/java/org/springframework/samples/petclinic/api/application/VisitsServiceClient.java
